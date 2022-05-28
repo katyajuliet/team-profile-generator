@@ -14,6 +14,12 @@
   ## Description:
   This team profile generator is a tool to quickly create an attractive page that displays the names, titles, and contact info for team members like a team roster.
 
+  Video 1 [Link] (https://www.loom.com/share/4403f800d2a9461c821ae7371bcae93f)
+  Video 2 [Link] (https://www.loom.com/share/30d7c603db7448fbad661b3a5fb32933)
+
+  Html Test Screenshot 
+  <img src="./assets/images/team-profile-gen-screenshot.png/>
+
   ## Installation:
   To use this app you will need to visit the public repo, clone it and make sure to install node.js npm and inquirer packages to run on the backend. REPO [Link](https://github.com/katyajuliet/)team-profile-generator
 
