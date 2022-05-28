@@ -1,11 +1,13 @@
 body {
-    background-image: url("./assets/images/abstract-background.jpg");
+    background-image: url("./assets/images/clean-desk.jpg");
+    
 }
 
 .card {
     border: solid 10px white;
-    background-color: lightsteelblue;
-    padding-bottom: 10px;
+    background-color: rgba(176, 196, 222, 0.665);
+    padding-bottom: 30px;
+
 }
 
 .card body {
@@ -13,7 +15,7 @@ body {
 }
 
 .jumbotron {
-    background: lightsteelblue;
+    background: rgba(176, 196, 222, 0.665);
 }
 h1 {
     color: white;
@@ -49,7 +51,13 @@ a {
 footer {
     background-color: lightsteelblue;
     color: white;
-    margin: none;
     padding: 20px;
-    padding-top: 20px;
 }
+
+#footer {
+    position:absolute;
+    left:0px;
+    bottom:0px;
+    height:30px;
+    width:100%;
+ }
